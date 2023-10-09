@@ -1,13 +1,1 @@
-buenas
-no quisiera molestar
-<<<<<<< HEAD
-hola holita
-Monos globos jaja
-Antonio Jesús
-Marcos
-Jose andresS
-=======
-pero hace tiempo que no sé de ti
-y solo quería preguntar...
-
->>>>>>> 2e3993e1c7d7999b4157c8a54e7fa2d444a7969f
+lo he borrado
