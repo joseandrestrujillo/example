@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-hola
-buenas
-no quisiera molestar
-hola holita
-Monos globos jaja
-Antonio Jesús
-Marcos M. D.
-=======
-lo he borrado
->>>>>>> e7cc3a2a1998ebbda7aca06f6dde461dd4715cc8
+
